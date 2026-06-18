@@ -1,6 +1,3 @@
-Name: Eduard Patlea
-Student Number: 101268119
-
 Complation Instructions:
     - run: make
 Execution Instructions:
